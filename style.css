@@ -11,5 +11,6 @@ header{
 }
 
 section{
-    background: blueviolet ;
+    background: blueviolet;
+    padding-bottom: 80px;
 }
