@@ -21,7 +21,7 @@ section{
 }
 
 .chamada{
-    background: blueviolet;
+    background: rgba(5, 40, 213, 0.652);;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
